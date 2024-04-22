@@ -15,3 +15,4 @@ Biz boshladik
 
 <h1>Bolar men silarga ishonaman uyaltirib quymelar</h1>
 
+<h1>Yozgan codilarni tezroq githubga yuborib turilar</h1>
