@@ -13,5 +13,5 @@ Biz boshladik
 
 <h1> Project full finish - 25.04.2024 </h1>
 
-
+<h1>Bolar men silarga ishonaman uyaltirib quymelar</h1>
 
