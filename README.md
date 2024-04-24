@@ -16,4 +16,8 @@ Biz boshladik
 <h1>Bolar men silarga ishonaman uyaltirib quymelar</h1>
 
 <h1>Yozgan codilarni tezroq githubga yuborib turilar</h1>
-<h1>Men o'z ishimni boshladim</h1>
+
+<h1>Men o'z ishimni boshladim</h1
+
+<a href="https://nicepage.com/templates/preview/interior-design-portfolio-4086464?device=desktop">Project linki</a>
+
