@@ -16,8 +16,10 @@
     background-size: 131%;
     background-position: center;
 }
-.img3{
-    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa);
-    background-size: 110%;
-    
+.ahrif3{
+    color: white;
+    text-decoration: none;
+}
+.ahrif3:hover{
+    color: greenyellow;
 }
