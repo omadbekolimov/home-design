@@ -11,13 +11,14 @@ Biz boshladik
 
 <h1> Project full started - 22.04.2024  Bismillah 🤗</h1>
 
-<h1> Project full finish - 25.04.2024 </h1>
+<h1> Project full finish - 25.04.202    4   </                                                                                      h1>
 
 <h1>Bolar men silarga ishonaman uyaltirib quymelar</h1>
 
 <h1>Yozgan codilarni tezroq githubga yuborib turilar</h1>
 
 <h1>Men o'z ishimni boshladim</h1
+<h1> ustozzzzzzzzzz man tugatmadm hali tan olaman </h1>
 
 <a href="https://nicepage.com/templates/preview/interior-design-portfolio-4086464?device=desktop">Project linki</a>
 
