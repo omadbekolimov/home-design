@@ -18,6 +18,8 @@ Biz boshladik
 <h1>Yozgan codilarni tezroq githubga yuborib turilar</h1>
 
 <h1>Men o'z ishimni boshladim</h1
+<h1> ustozzzzzzzzzz man tugatmadm hali tan olaman </h1>
+<h1> agar darsizga kirmagan bulsam man ulgan bulaman 👌😊😊😊😊</h1>
 
 <a href="https://nicepage.com/templates/preview/interior-design-portfolio-4086464?device=desktop">Project linki</a>
 
